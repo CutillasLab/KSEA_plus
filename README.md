@@ -1,4 +1,4 @@
-# KSEAR_professional
+# KSEAR+
 Computational tool for carrying out KSEA analysis using formulas from Casado et al 2013. Prevously published as KSEA_Professional (Casado et al 2021). 
 
 # Copyright
