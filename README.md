@@ -8,7 +8,7 @@ The copyright holder for these data is the author. This resource is made availab
 Download the KSEA_plus folder and create a shortcut to the KSEA_plus.exe program. 
 
 # Add databases
-Custom databases can be used in KSEA_plus by adding csv files into the relevent data_files folder. These csv files must have the same layout as the current databases: 1) nodes 2) number of edges in node 3) list of nodes seperated by semicolon ";".
+Custom databases can be used in KSEA_plus by adding csv files into the relevent data_files folder. These csv files must have the same layout as the current databases: 1) nodes 2) number of edges in node 3) list of edges seperated by semicolon ";".
 
 We hope this tool will be useful for you and the field. If you have any questions or ideas please contact h.gerdes@qmul.ac.uk
 
