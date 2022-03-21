@@ -5,7 +5,7 @@ Computational tool for carrying out KSEA analysis using formulas from Casado et 
 The copyright holder for these data is the author. This resource is made available under a Creative Commons Attribution-NonCommercial-NoDerivatives CC-BY-NC-ND 4.0 International license.
 
 # Installation 
-Download the KSEA_plus folder and create a shortcut to the KSEA_plus.exe program. 
+Download the KSEA_plus zip file and create a shortcut to the KSEA_plus.exe program once it is opened. Run the KSEA_plus.exe program to begin analysing data. 
 
 # Add databases
 Custom databases can be used in KSEA_plus by adding csv files into the relevent data_files folder. These csv files must have the same layout as the current databases: 1) nodes 2) number of edges in node 3) list of edges seperated by semicolon ";".
